@@ -1,6 +1,6 @@
 package Easy;
 
-public class BestTimeToBuyAndSellStock {
+public class BestTimeToBuyAndSellStock_LC121 {
 
     //Bruteforce
     //TC: O(n2) SC:O(1)
