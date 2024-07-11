@@ -7,7 +7,7 @@ import java.util.Map;
 public class MajorityElement_LC169 {
     
     //Brute force
-    //TC: O(n2) SC: O(n)
+    //TC: O(n2) SC: O(1)
     static int majorityElement(int[] arr, int n){
 
         for(int i=0; i<n; i++){
